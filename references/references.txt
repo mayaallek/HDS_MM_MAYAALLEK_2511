@@ -1,12 +1,22 @@
 Christensen, H.M., Schou, M., Goetze, J.P., Faber, J., Frystyk, J., Flyvbjerg, A. and Kistorp, C. (2013). Body mass index in chronic heart failure: association with biomarkers of neurohormonal activation, inflammation and endothelial dysfunction. BMC Cardiovascular Disorders, 13(1), pp.80–80. doi:https://doi.org/10.1186/1471-2261-13-80.
+
 Costanzo, S., Di Castelnuovo, A., Donati, M.B., Iacoviello, L. and de Gaetano, G. (2010). Alcohol Consumption and Mortality in Patients With Cardiovascular Disease. Journal of the American College of Cardiology, 55(13), pp.1339–1347. doi:https://doi.org/10.1016/j.jacc.2010.01.006.
+
 Elagizi, A., Kachur, S., Carbone, S., Lavie, C.J. and Blair, S.N. (2020). A Review of Obesity, Physical Activity, and Cardiovascular Disease. Current Obesity Reports, 9(4). doi:https://doi.org/10.1007/s13679-020-00403-z.
+
 Kilaru, S., Frangos, S.G., Chen, A.H., Gortler, D., Dhadwal, A.K., Araim, O. and Sumpio, B.E. (2001). Nicotine: A Review of Its Role in Atherosclerosis. Journal of the American College of Surgeons, 193(5), pp.538–546. doi:https://doi.org/10.1016/s1072-7515(01)01059-6.
+
 Kim, W. and Kim, S. (2008). Women’s Alcohol Use and Alcoholism in Korea. Substance Use & Misuse, 43(8-9), pp.1078–1087. doi:https://doi.org/10.1080/10826080801914212.
+
 Menke, A., Muntner, P., Wildman, R.P., Reynolds, K. and He, J. (2007). Measures of Adiposity and Cardiovascular Disease Risk Factors*. Obesity, 15(3), pp.785–795. doi:https://doi.org/10.1038/oby.2007.593.
+
 Naftolin, F., Friedenthal, J., Nachtigall, R. and Nachtigall, L. (2019). Cardiovascular health and the menopausal woman: the role of estrogen and when to begin and end hormone treatment. F1000Research, 8, p.1576. doi:https://doi.org/10.12688/f1000research.15548.1.
+
 Rajesh Shigdel, Dalen, H., Sui, X., Lavie, C.J., Ulrik Wisløff and Ernstsen, L. (2019). Cardiorespiratory Fitness and the Risk of First Acute Myocardial Infarction: The HUNT Study. Journal of the American Heart Association, [online] 8(9). doi:https://doi.org/10.1161/jaha.118.010293.
+
 Stanhewicz, A.E., Wenner, M.M. and Stachenfeld, N.S. (2018). Sex differences in endothelial function important to vascular health and overall cardiovascular disease risk across the lifespan. American Journal of Physiology-Heart and Circulatory Physiology, 315(6), pp.H1569–H1588. doi:https://doi.org/10.1152/ajpheart.00396.2018.
+
 Tegegne, T.K., Islam, S.M.S. and Maddison, R. (2022). Effects of lifestyle risk behaviour clustering on cardiovascular disease among UK adults: latent class analysis with distal outcomes. Scientific Reports, 12(1). doi:https://doi.org/10.1038/s41598-022-22469-6.
+
 Ulianova, S. (2019). Cardiovascular Disease dataset. [online] www.kaggle.com. Available at: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset.
 Wilsnack, R.W., Vogeltanz, N.D., Wilsnack, S.C. and Harris, T.R. (2000). Gender differences in alcohol consumption and adverse drinking consequences: cross-cultural patterns. Addiction, 95(2), pp.251–265. doi:https://doi.org/10.1046/j.1360-0443.2000.95225112.x.
